@@ -1,0 +1,30 @@
+
+.cat{
+    margin: auto;
+    /* background-color: aqua; */
+    width: 85%;
+    padding: 20px 0;  
+}
+
+
+.temp{
+    height: 60px;
+    width: 85%;
+    margin: 10px auto;
+    background-color: #f1f1f1;
+    border-radius: 9px;
+}
+
+.plus-btn{
+    align-self: center;
+    width: 30px;
+    height: 35px;
+    /* margin-top: 10px; */
+    margin: 12px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.temp label{
+    font-size: 19px;
+}

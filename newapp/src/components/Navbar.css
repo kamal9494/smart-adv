@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav-bar{
+    height: 50px;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-bar label{
+    align-self: center;
+    font-family: Mali;
+    margin: 0 100px;
+    color: black;
+    font-size: 25px;
+}
+nav{
+    display: flex;
+}
+.main-nav{
+    align-self: center;
+    margin: 0 50px;
+    font-size: 20px;
+}
+
+nav a{
+    font-family: Mali;
+    color: black;
+    text-decoration: none;
+}
